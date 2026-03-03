@@ -1,2 +1,5 @@
-const App = git bash
-const app-use = practice commands
+
+ app = git hub 
+use = remote repo
+practice = push  commands
+
